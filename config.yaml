@@ -1,6 +1,6 @@
 bot:
   parse_mode: html
-  token: 1927292169:AAGOwMFYD1GnINYAKGX6W5yb_Y6rDU7ZStY
+  token: 1615030280:AAFgBwNLC1KpFdEp0liWlOrtykC2e1Pmg6s
 commands:
   start: Начать беседу со мной
 executor:
