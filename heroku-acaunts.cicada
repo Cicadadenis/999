@@ -1,0 +1,6 @@
+heroku plugins:install heroku-accounts
+
+heroku accounts:add personal
+
+heroku accounts:set personal
+
