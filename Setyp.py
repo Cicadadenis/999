@@ -76,8 +76,6 @@ os.system('git config --global user.name "Your Name"')
 
 os.system('git commit -m "first relise" ')
 
-os.system('heroku login')
-
 os.system('heroku create')
 
 os.system('git remote -v')
