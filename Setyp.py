@@ -80,7 +80,7 @@ os.system('heroku create')
 
 os.system('git remote -v')
 time.sleep(2)
-os.system('git push heroku master')
+os.system('git push heroku')
 time.sleep(3)
 os.system('heroku ps:scale worker=1')
 
