@@ -13,18 +13,6 @@ import requests
 
 
 
-os.system('pip install aiogram')
-print("aiogram OK!!")
-os.system('pip install PyYAML')
-print("pyyaml OK!!")
-os.system('pip install rich')
-print("rich OK!!")
-
-
-
-
-
-
 os.system('cls')
 re = "\033[1;31m"
 gr = "\033[1;32m"
@@ -94,7 +82,7 @@ os.system('heroku create')
 
 os.system('git remote -v')
 time.sleep(2)
-os.system('git push heroku * ')
+os.system('git push heroku master')
 time.sleep(3)
 os.system('heroku ps:scale worker=1')
 
