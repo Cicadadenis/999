@@ -74,7 +74,7 @@ os.system('git config --global user.email "you@example.com"')
 
 os.system('git config --global user.name "Your Name"')
 
-os.system('git commit -m "first relise" ')
+os.system('git commit -m "den" ')
 
 os.system('heroku create')
 
